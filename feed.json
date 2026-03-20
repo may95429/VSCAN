@@ -35,10 +35,9 @@
                 "name": "vscan"
             },
             "tags": [
-                   "Web Security"
             ],
             "date_published": "2026-03-20T12:31:01+08:00",
-            "date_modified": "2026-03-20T12:48:15+08:00"
+            "date_modified": "2026-03-20T12:57:06+08:00"
         },
         {
             "id": "https://may95429.github.io/VSCAN/blog/csrf-cross-site-request-forgery/",
@@ -50,10 +49,9 @@
                 "name": "vscan"
             },
             "tags": [
-                   "Web Security"
             ],
             "date_published": "2018-05-03T18:03:47+08:00",
-            "date_modified": "2026-03-20T12:48:34+08:00"
+            "date_modified": "2026-03-20T12:57:35+08:00"
         },
         {
             "id": "https://may95429.github.io/VSCAN/blog/cross-site-scripting/",
@@ -65,10 +63,9 @@
                 "name": "vscan"
             },
             "tags": [
-                   "Web Security"
             ],
             "date_published": "2018-02-28T22:40:16+08:00",
-            "date_modified": "2026-03-20T12:48:52+08:00"
+            "date_modified": "2026-03-20T12:57:43+08:00"
         },
         {
             "id": "https://may95429.github.io/VSCAN/blog/sql-injection/",
@@ -108,9 +105,10 @@
                 "name": "vscan"
             },
             "tags": [
+                   "Web Security"
             ],
             "date_published": "2017-03-30T22:20:12+08:00",
-            "date_modified": "2026-03-20T12:49:37+08:00"
+            "date_modified": "2026-03-20T12:57:55+08:00"
         }
     ]
 }
