@@ -3,7 +3,7 @@
     <title>vscan(may95429)</title>
     <link href="https://may95429.github.io/VSCAN/feed.xml" rel="self" />
     <link href="https://may95429.github.io/VSCAN" />
-    <updated>2026-03-20T11:37:25+08:00</updated>
+    <updated>2026-03-20T11:56:38+08:00</updated>
     <author>
         <name>vscan</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://may95429.github.io/VSCAN/blog/csrf-cross-site-request-forgery/"/>
         <id>https://may95429.github.io/VSCAN/blog/csrf-cross-site-request-forgery/</id>
+            <category term="Web Security"/>
 
         <updated>2018-05-03T18:03:47+08:00</updated>
             <summary type="html">
@@ -66,6 +67,7 @@
         </author>
         <link href="https://may95429.github.io/VSCAN/blog/cross-site-scripting/"/>
         <id>https://may95429.github.io/VSCAN/blog/cross-site-scripting/</id>
+            <category term="Web Security"/>
 
         <updated>2018-02-28T22:40:16+08:00</updated>
             <summary type="html">
@@ -127,6 +129,7 @@
         </author>
         <link href="https://may95429.github.io/VSCAN/blog/sql-injection/"/>
         <id>https://may95429.github.io/VSCAN/blog/sql-injection/</id>
+            <category term="Web Security"/>
 
         <updated>2017-11-15T21:37:38+08:00</updated>
             <summary type="html">
@@ -166,6 +169,7 @@
         </author>
         <link href="https://may95429.github.io/VSCAN/blog/injection-attack/"/>
         <id>https://may95429.github.io/VSCAN/blog/injection-attack/</id>
+            <category term="Web Security"/>
 
         <updated>2017-06-15T23:05:21+08:00</updated>
             <summary type="html">
@@ -203,6 +207,7 @@
         </author>
         <link href="https://may95429.github.io/VSCAN/blog/http-header-an-quan-xing/"/>
         <id>https://may95429.github.io/VSCAN/blog/http-header-an-quan-xing/</id>
+            <category term="Web Security"/>
 
         <updated>2017-03-30T22:20:12+08:00</updated>
             <summary type="html">
