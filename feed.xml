@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>VSCAN</title>
+    <title>vscan(may95429)</title>
     <link href="https://may95429.github.io/VSCAN/feed.xml" rel="self" />
     <link href="https://may95429.github.io/VSCAN" />
-    <updated>2026-03-11T23:02:14+08:00</updated>
+    <updated>2026-03-20T11:37:25+08:00</updated>
     <author>
         <name>vscan</name>
     </author>
@@ -53,6 +53,9 @@
 <p> </p>
 <p>取得使用者資訊 (User-Agent)</p>
 <p><a href="https://msdn.microsoft.com/zh-tw/library/system.web.httprequest.useragent(v=vs.110).aspx" target="_blank" rel="noopener noreferrer"><em>https://msdn.microsoft.com/zh-tw/library/system.web.httprequest.useragent(v=vs.110).aspx</em></a></p>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -229,6 +232,9 @@
 <p>其他關於防範 XSS 攻擊的有 Content-Security-Policy 及 X-XSS-Protection，另外在設定 Cookies 時可帶入 Httponly 參數，限制只能透過 HTTP 方式取得 Cookie，若利用 Script 方式會被拒絕，一樣可以達成防禦的效果!  </p>
 <p> </p>
 <p>利用調整 HTTP Header 的安全性，可謂有事半功倍的成效，但是這終究只是第一線的防禦並只能抵擋部份攻擊，根據資安的縱深防禦理論，須藉由定期的弱點掃描檢視網站，網站伺服器及程式碼持續性的安全性調整及更新，才是網站能長久安全的不二法門。</p>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
