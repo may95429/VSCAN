@@ -3,12 +3,34 @@
     <title>vscan(may95429)</title>
     <link href="https://may95429.github.io/VSCAN/feed.xml" rel="self" />
     <link href="https://may95429.github.io/VSCAN" />
-    <updated>2026-03-20T12:35:27+08:00</updated>
+    <updated>2026-03-20T12:38:40+08:00</updated>
     <author>
         <name>vscan</name>
     </author>
     <id>https://may95429.github.io/VSCAN</id>
 
+    <entry>
+        <title>test2</title>
+        <author>
+            <name>vscan</name>
+        </author>
+        <link href="https://may95429.github.io/VSCAN/blog/test2/"/>
+        <id>https://may95429.github.io/VSCAN/blog/test2/</id>
+
+        <updated>2026-03-20T12:38:40+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    HTTP Header 可視為網站與客戶在連線時的橋溝通梁，也就是遵照 HTTP 的協議，利用 Server 端的參數來告知客戶端瀏覽器需遵守其遊戲規則，你才能跟我進行連線溝通與確認是否繼續進行下一步動作，所以當客戶端發出需求時，Server&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>HTTP Header 可視為網站與客戶在連線時的橋溝通梁，也就是遵照 HTTP 的協議，利用 Server 端的參數來告知客戶端瀏覽器需遵守其遊戲規則，你才能跟我進行連線溝通與確認是否繼續進行下一步動作，所以當客戶端發出需求時，Server 端可藉由回應來確認連線的安全性需求。</p>
+<hr>
+<p>🚗近來跟客戶討論網站安全性時，常會遇到程式碼修補上的困難，不外乎還需要開發人員的調整及測試時間等問題，其實可以先進行 HTTP Header 的安全性設定。 就如 OWASP TOP 10 與 SANS/CWE TOP 25 所列弱點，常見的 <a href="https://may95429.github.io/VSCAN/blog/cross-site-scripting/" target="_blank" rel="noopener noreferrer">XSS(Cross-Site Scripting)</a>與 CSRF(Cross-Site Requset Forgery)等弱點都可藉由調整 HTTP Header 來達成初步的防禦效果! OWASP 就有針對此發表了相關說明。</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test1</title>
         <author>
